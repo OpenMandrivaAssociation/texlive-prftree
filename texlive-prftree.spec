@@ -1,6 +1,6 @@
 Name:		texlive-prftree
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Macros for building proof trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/prftree
